@@ -1,0 +1,1 @@
+Ciao, this is the Git introduction
